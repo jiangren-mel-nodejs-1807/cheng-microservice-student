@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Student": 4
+  },
+  "models": {
+    "Student": {
+      "1": "{\"name\":\"S1\",\"description\":\"S-d1\",\"id\":1}",
+      "2": "{\"name\":\"S2\",\"description\":\"S-d2\",\"id\":2}",
+      "3": "{\"id\":3,\"name\":\"s3\",\"description\":\"s-d3\"}"
+    }
+  }
+}
